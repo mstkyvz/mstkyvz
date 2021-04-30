@@ -4,9 +4,7 @@
 ---
 
 <div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/Atam.gif"/>
-</p>
+
 <br />
 </div>
 
