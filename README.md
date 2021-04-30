@@ -20,7 +20,7 @@
   <a target="_blank" href="#"><img alt="iletisim | Sites" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1231/1231223.svg"></a>
   <a target="_blank" href="https://Youtube.com/"><img  alt="iletisim | YouTube" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg"></a>
   <a target="_blank" href="https://Twitch.com/"><img alt="iletisim | Twitch" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111727.svg"></a>
-  <a href="https://www.linkedin.com/in/mstkyvz/"target="_blank"><img alt="iletisim | Linkedin" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg"></a>
+  <a href="https://www.linkedin.com/in/mstkyvz/" target="_blank"><img alt="iletisim | Linkedin" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg"></a>
 </div>
 
 ---
