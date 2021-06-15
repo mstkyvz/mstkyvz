@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F38bb3e25cb5a4a0a661eeecd8a599b04%2Ftenor.gif%3Fitemid%3D5305081&f=1&nofb=1"/>
 </p>
-  <h3 beni işe alll h3>
+  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Beni işe alırmısınız</h1>
  <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fc692cd4fc23343560115ec80ec25a2fe%2Ftenor.gif%3Fitemid%3D3480295&f=1&nofb=1"/>
 </p> 
