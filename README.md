@@ -15,8 +15,8 @@
 <div align="center">
   
   <a target="_blank" href="https://instagram.com/muso_yavuz"><img alt="iletisim | Instagram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg"></a>
-  <a target="_blank" href="https://discord.com/widget?id=699824201497968800&theme=dark"><img alt="iletisim | Discord Server | ixakblt#5362" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>
-  <a target="_blank" href="https://www.t.me/ixakblt"><img  alt="iletisim | Telegram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg"></a>
+  <a target="_blank" href="https://discord.com/widget?id=699824201497968800&theme=dark"><img alt="iletisim | Discord Server | Walker 835#3864" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>
+  <a target="_blank" href="https://www.t.me/walker"><img  alt="iletisim | Telegram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg"></a>
   <a target="_blank" href="#"><img alt="iletisim | Sites" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1231/1231223.svg"></a>
   <a target="_blank" href="https://Youtube.com/"><img  alt="iletisim | YouTube" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg"></a>
   <a target="_blank" href="https://Twitch.com/"><img alt="iletisim | Twitch" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111727.svg"></a>
