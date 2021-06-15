@@ -5,7 +5,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ixakblt/ixakblt/main/Atam.gif"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgryfin.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcat-gif.gif&f=1&nofb=1"/>
 </p>
 <br />
 </div>
