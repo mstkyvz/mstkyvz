@@ -5,7 +5,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgryfin.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcat-gif.gif&f=1&nofb=1"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F38bb3e25cb5a4a0a661eeecd8a599b04%2Ftenor.gif%3Fitemid%3D5305081&f=1&nofb=1"/>
 </p>
 <br />
 </div>
