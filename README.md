@@ -63,7 +63,7 @@
 
 <br />
 
-### - Languages and Tools...
+### - Diller ve Araçlar...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
