@@ -28,7 +28,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 <p align="center">
   <h3> 20 yaşında, Her Şeyi Kendi Kendine Öğrenen Full-Stack geliştiricisiyim.</h3>
 </p>
