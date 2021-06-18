@@ -43,7 +43,7 @@
  
  - Hayatın anını çıkartıyorum
  
- - 💬 İletişim'e geç 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svgg" >](https://www.instagram.com/muso_yavuz/)
+ - 💬 İletişim'e geç 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://www.instagram.com/muso_yavuz/)
  
  <p align="center">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
