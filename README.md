@@ -63,7 +63,7 @@
 
 <p align="center" >
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mstkyvz&langs_count=10&hide=vim%20script"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mstkyvz&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstkyvz&langs_count=10&hide=vim%20script"/>
   </a>
 </p>
 
