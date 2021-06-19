@@ -35,13 +35,11 @@
 
  - <i>Yaparız abi kolay o iş.</i>
    
- - 🔭 Uzay mı nee ??😼
+ - 🔭 :heart:
 
- - 🛸 Makinaa
+ - 🛸 :heart:
  
  - Full Stack Developer hmmm :heart:
- 
- - Hayatın anını çıkartıyorum
  
  - 💬 İletişim'e geç 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://www.instagram.com/muso_yavuz/)
  
