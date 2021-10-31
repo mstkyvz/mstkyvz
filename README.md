@@ -24,7 +24,9 @@
  <h5 align="center">
    <i>⚡️İş aramaktayım⚡️</i>
   </h5>
- 
+ ### Spotify Playing 🎧
+[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shadowpro98?si=Cy5L7C8jTJaEcK6G2-4Mhg)
+
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" />
