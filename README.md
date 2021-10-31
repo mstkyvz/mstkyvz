@@ -11,7 +11,8 @@
 <a href="https://open.spotify.com/user/21ephzc6s452bgef7cnyiivpa?si=938f2a9e481c41c9"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
-
+### Spotify Playing 🎧
+[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21ephzc6s452bgef7cnyiivpa?si=Cy5L7C8jTJaEcK6G2-4Mhg)
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Mustafa Yavuz | 💻 Full Stack Developer | 🛸 Turkey , TR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
