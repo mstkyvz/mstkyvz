@@ -96,6 +96,3 @@
 <br />
 
 <h1 align='center'>⚡️<i>İyi Dileklerimle</i>⚡️</h1>
-
-<center> ### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21ephzc6s452bgef7cnyiivpa?si=c54a647632314f87&nd=1) </center>
