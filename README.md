@@ -4,7 +4,7 @@ Hi 👋 My name is Mustafa Yavuz
 Full-Stack Developer
 --------------------
 
-eg: I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+I've been learning to code for 7 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Linked](http://www.linkedin.com/in/mstkyvz/)
@@ -58,7 +58,6 @@ eg: I've been learning to code for 5 years, after switching careers. I started w
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mstkyvz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muso_yavuz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mstkyvz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
