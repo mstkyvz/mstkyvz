@@ -13,6 +13,7 @@ I've been learning to code for 7 years, after switching careers. I started with 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
+[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
