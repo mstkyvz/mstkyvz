@@ -1,7 +1,7 @@
 Hi 👋 My name is Mustafa Yavuz
 ==============================
 
-Full-Stack Developer
+Cyber Security Researcher - Full-Stack Developer
 --------------------
 
 I've been learning to code for 7 years, after switching careers. I started with HTML, but have really found a passion for backend development...
